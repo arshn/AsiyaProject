@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ui">
+        <file>main.qml</file>
+        <file>test.qml</file>
+        <file>header.qml</file>
+        <file>sideBar.qml</file>
+    </qresource>
+</RCC>
